@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"MP3_SND_Grasslands",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":78.0,
+  "exportDir":"",
+  "name":"MP3_SND_Grasslands",
+  "parent":{
+    "name":"ambiente",
+    "path":"folders/sons/ambiente.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"MP3_SND_Grasslands.mp3",
+  "volume":1.0,
+}

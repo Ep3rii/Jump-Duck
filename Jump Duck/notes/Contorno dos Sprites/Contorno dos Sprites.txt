@@ -1,0 +1,1 @@
+Criacao de contorno dos sprites consiste em uma escala entre 6 a 7 do *Val* nas cores
